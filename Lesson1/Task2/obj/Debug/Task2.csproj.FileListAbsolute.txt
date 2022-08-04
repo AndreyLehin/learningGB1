@@ -1,0 +1,8 @@
+D:\курсы папы\проект\Lesson1\Task2\bin\Debug\Task2.exe.config
+D:\курсы папы\проект\Lesson1\Task2\bin\Debug\Task2.exe
+D:\курсы папы\проект\Lesson1\Task2\bin\Debug\Task2.pdb
+D:\курсы папы\проект\Lesson1\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\курсы папы\проект\Lesson1\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+D:\курсы папы\проект\Lesson1\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\курсы папы\проект\Lesson1\Task2\obj\Debug\Task2.exe
+D:\курсы папы\проект\Lesson1\Task2\obj\Debug\Task2.pdb
