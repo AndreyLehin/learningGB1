@@ -1,0 +1,6 @@
+D:\курсы папы\проект\HomeWork2\Pouse\bin\Debug\Pouse.dll
+D:\курсы папы\проект\HomeWork2\Pouse\bin\Debug\Pouse.pdb
+D:\курсы папы\проект\HomeWork2\Pouse\obj\Debug\Pause.csproj.AssemblyReference.cache
+D:\курсы папы\проект\HomeWork2\Pouse\obj\Debug\Pause.csproj.CoreCompileInputs.cache
+D:\курсы папы\проект\HomeWork2\Pouse\obj\Debug\Pouse.dll
+D:\курсы папы\проект\HomeWork2\Pouse\obj\Debug\Pouse.pdb

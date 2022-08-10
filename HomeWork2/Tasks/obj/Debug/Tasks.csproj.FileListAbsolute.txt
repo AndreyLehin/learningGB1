@@ -1,0 +1,15 @@
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\Tasks.exe.config
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\Tasks.exe
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\Tasks.pdb
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\Name.dll
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\Name.pdb
+D:\курсы папы\проект\HomeWork2\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+D:\курсы папы\проект\HomeWork2\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+D:\курсы папы\проект\HomeWork2\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+D:\курсы папы\проект\HomeWork2\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+D:\курсы папы\проект\HomeWork2\Tasks\obj\Debug\Tasks.exe
+D:\курсы папы\проект\HomeWork2\Tasks\obj\Debug\Tasks.pdb
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\Pouse.dll
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\Pouse.pdb
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\PrintIn Center.dll
+D:\курсы папы\проект\HomeWork2\Tasks\bin\Debug\PrintIn Center.pdb
