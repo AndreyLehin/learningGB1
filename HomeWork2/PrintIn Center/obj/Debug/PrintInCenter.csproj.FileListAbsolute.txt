@@ -1,0 +1,6 @@
+D:\курсы папы\проект\HomeWork2\PrintIn Center\bin\Debug\PrintIn Center.dll
+D:\курсы папы\проект\HomeWork2\PrintIn Center\bin\Debug\PrintIn Center.pdb
+D:\курсы папы\проект\HomeWork2\PrintIn Center\obj\Debug\PrintInCenter.csproj.AssemblyReference.cache
+D:\курсы папы\проект\HomeWork2\PrintIn Center\obj\Debug\PrintInCenter.csproj.CoreCompileInputs.cache
+D:\курсы папы\проект\HomeWork2\PrintIn Center\obj\Debug\PrintIn Center.dll
+D:\курсы папы\проект\HomeWork2\PrintIn Center\obj\Debug\PrintIn Center.pdb
