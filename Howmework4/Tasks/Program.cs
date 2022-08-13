@@ -163,6 +163,13 @@ namespace Tasks
             }
         }
 
+
+        /// <summary>
+        /// Записываем данные в файл
+        /// </summary>
+        /// <param name="fileName"></param>
+        /// <param name="data"></param>
+        /// <exception cref="FileNotFoundException"></exception>
         public static void SaveArrFromFile(string fileName, int[]data)
         {
             if (File.Exists(fileName))

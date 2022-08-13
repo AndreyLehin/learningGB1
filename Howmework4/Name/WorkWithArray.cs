@@ -226,7 +226,12 @@ namespace Name
 
         }
 
-        
+        //public static string Word()
+       // {
+       //     char[] sim = "qwertyuiopasdfghjklzxcvbnm".ToCharArray;
+       //
+       // }
+
     }
 
 }
