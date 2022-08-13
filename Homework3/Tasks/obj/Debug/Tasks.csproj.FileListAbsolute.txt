@@ -1,0 +1,11 @@
+D:\курсы папы\проект\Homework3\Tasks\obj\Debug\Tasks.csproj.AssemblyReference.cache
+D:\курсы папы\проект\Homework3\Tasks\obj\Debug\Tasks.csproj.SuggestedBindingRedirects.cache
+D:\курсы папы\проект\Homework3\Tasks\obj\Debug\Tasks.csproj.CoreCompileInputs.cache
+D:\курсы папы\проект\Homework3\Tasks\bin\Debug\Tasks.exe.config
+D:\курсы папы\проект\Homework3\Tasks\bin\Debug\Tasks.exe
+D:\курсы папы\проект\Homework3\Tasks\bin\Debug\Tasks.pdb
+D:\курсы папы\проект\Homework3\Tasks\bin\Debug\Name.dll
+D:\курсы папы\проект\Homework3\Tasks\bin\Debug\Name.pdb
+D:\курсы папы\проект\Homework3\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+D:\курсы папы\проект\Homework3\Tasks\obj\Debug\Tasks.exe
+D:\курсы папы\проект\Homework3\Tasks\obj\Debug\Tasks.pdb
