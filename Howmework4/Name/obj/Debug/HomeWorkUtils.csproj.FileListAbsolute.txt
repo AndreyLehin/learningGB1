@@ -1,0 +1,12 @@
+D:\курсы папы\проект\HomeWork2\Name\bin\Debug\Name.dll
+D:\курсы папы\проект\HomeWork2\Name\bin\Debug\Name.pdb
+D:\курсы папы\проект\HomeWork2\Name\obj\Debug\HomeWorkUtils.csproj.AssemblyReference.cache
+D:\курсы папы\проект\HomeWork2\Name\obj\Debug\HomeWorkUtils.csproj.CoreCompileInputs.cache
+D:\курсы папы\проект\HomeWork2\Name\obj\Debug\Name.dll
+D:\курсы папы\проект\HomeWork2\Name\obj\Debug\Name.pdb
+D:\курсы папы\проект\Homework3\Name\bin\Debug\Name.dll
+D:\курсы папы\проект\Homework3\Name\bin\Debug\Name.pdb
+D:\курсы папы\проект\Homework3\Name\obj\Debug\HomeWorkUtils.csproj.AssemblyReference.cache
+D:\курсы папы\проект\Homework3\Name\obj\Debug\HomeWorkUtils.csproj.CoreCompileInputs.cache
+D:\курсы папы\проект\Homework3\Name\obj\Debug\Name.dll
+D:\курсы папы\проект\Homework3\Name\obj\Debug\Name.pdb
